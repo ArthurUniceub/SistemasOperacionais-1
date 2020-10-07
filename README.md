@@ -5,4 +5,5 @@ Repositório criado para a matéria de sistemas operacionais no curso de ciênci
 **"Nos ensinem a ter liberdade novamente"** - CEUBOS \
 Arquivo PDF e vídeo da apresentação upados para a branch master 
 # Link para o vídeo no google drive
-Vídeo disponível em: https://drive.google.com/file/d/1y753JXGnYmQCmbumyV34R0QV0OdPFo7k/view?usp=sharing - Caso não queira baixar 
+Vídeo disponível em: https://drive.google.com/file/d/1y753JXGnYmQCmbumyV34R0QV0OdPFo7k/view?usp=sharing - Caso não queira baixar \
+Obs: Perdoa a qualidade da câmera professor, eu usei o meu celular enquanto apresentava pelo computador \
